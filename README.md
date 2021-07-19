@@ -1,4 +1,4 @@
-Visit at : covidinf.netlify.app
+https://covidinf.netlify.app
 
 # Getting Started with Create React App
 
